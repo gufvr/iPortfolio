@@ -1104,3 +1104,12 @@ section {
     padding-right: 20px 15px;
   }
 }
+
+.icon__container {
+  text-align: right;
+}
+
+.tec_img {
+  width: 32px;
+  height: 32px;
+}
